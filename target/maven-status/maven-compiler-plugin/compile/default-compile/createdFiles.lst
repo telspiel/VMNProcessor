@@ -1,0 +1,15 @@
+com\noesis\vmn\processor\xml\domain\XmlPushResponse$RecipientList.class
+com\noesis\vmn\processor\xml\domain\XmlPushRequest$Data$Message.class
+com\noesis\vmn\processor\xml\domain\XmlPushRequest.class
+com\noesis\vmn\processor\xml\domain\XmlPushRequest$Data$RecipientList$Recipient.class
+com\noesis\vmn\processor\App.class
+com\noesis\vmn\processor\controller\VMNServiceController.class
+com\noesis\vmn\processor\domain\VMNConfigDto.class
+com\noesis\vmn\processor\xml\domain\ObjectFactory.class
+com\noesis\vmn\processor\xml\domain\XmlPushRequest$Data$RecipientList.class
+com\noesis\vmn\processor\xml\domain\XmlPushResponse$RecipientList$Recipient.class
+com\noesis\vmn\processor\xml\domain\XmlPushResponse$RecipientList$Recipient$PartMessageIdList.class
+com\noesis\vmn\processor\domain\VMNTransDto.class
+com\noesis\vmn\processor\xml\domain\XmlPushRequest$Data.class
+com\noesis\vmn\processor\xml\domain\XmlPushResponse.class
+com\noesis\vmn\processor\config\SenderConfig.class
