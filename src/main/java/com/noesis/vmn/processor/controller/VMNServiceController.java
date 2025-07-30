@@ -121,6 +121,7 @@ public class VMNServiceController {
 				specificKeyword != null && !specificKeyword.isEmpty() ? specificKeyword : null);
 
 		logger.info("Fetching details from NgVMNConfig :" + vmnDetails);
+		logger.info("Full fetching details in ngVMNConfig");
 
 		if (!vmnDetails.isEmpty()) {
 
