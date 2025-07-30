@@ -121,7 +121,6 @@ public class VMNServiceController {
 				specificKeyword != null && !specificKeyword.isEmpty() ? specificKeyword : null);
 
 		logger.info("Fetching details from NgVMNConfig :" + vmnDetails);
-		logger.info("the message id is 124............");
 
 		if (!vmnDetails.isEmpty()) {
 
